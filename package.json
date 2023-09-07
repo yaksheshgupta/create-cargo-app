@@ -1,11 +1,11 @@
 {
-  "name": "eas-rust-app",
+  "name": "create-cargo-app",
   "version": "1.0.0",
   "description": "It helps developers to create a project and install cargo on 1 enter",
   "main": "index.js",
   "scripts": {
     "create": "node index.js",
-    "test": "mocha test/test.js"
+    "test": ""
   },
   "keywords": [
     "rust",
