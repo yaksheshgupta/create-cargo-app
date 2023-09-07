@@ -1,0 +1,22 @@
+{
+  "name": "eas-rust-app",
+  "version": "1.0.0",
+  "description": "It helps developers to create a project and install cargo on 1 enter",
+  "main": "index.js",
+  "scripts": {
+    "create": "node index.js",
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "rust",
+    "cargo",
+    "developer",
+    "easy",
+    "simple"
+  ],
+  "author": "Yakshesh Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
